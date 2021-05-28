@@ -72,4 +72,17 @@ Separately Compiled, Extensible Interpreter </a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/m(36).pdf" style="text-decoration:none;">A modular module system</a></li> 
  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/m(37).pdf" style="text-decoration:none;">The Design Space of ML Modules</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/m(38).pdf" style="text-decoration:none;">An Implementation of Standard ML Modules</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/m(39).pdf" style="text-decoration:none;">A Type System for Recursive Modules</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/m(40).pdf" style="text-decoration:none;">Re
+ections on Standard ML</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Papers-on-Modules/blob/master/m(41).pdf" style="text-decoration:none;">Program Generation for ML Modules (Short Paper)</a></li> 
+  
+  
+  
+  
+  
+  
 </ul>
